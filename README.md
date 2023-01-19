@@ -27,10 +27,6 @@ O objetivo deste trabalho é classificar o estágio (Stage) da doença de cirros
 
 **[Bónus]** Para além da submissão do Notebook, durante o decorrer do tempo do Projeto 3 irá decorrer uma competição na [plataforma Kaggle](https://www.kaggle.com/competitions/sistemas-inteligentes-projeto-3/), onde os alunos poderão submeter as previsões dos seus modelos, tendo feedback imediato e competindo com os restantes grupos. Para se poderem registar na competição, utilizem o seguinte link: https://www.kaggle.com/t/170f2b29bb6246c78ebc5c63af7e0765.
 
-### Entrega
-
-A entrega deverá ser um Notebook de acordo com o template fornecido (`SI-proj3-XX.ipynb`) em que XX deve ser substituído pelo número do grupo no Moodle. **Muito Importante: O Notebook deverá ter sido executado, mostrando todos os outputs.**
-
 ### Dados
 
 Os detalhes do conjunto de dados das características dos pacientes e do seu historial clínico estão descritos nesta [página](https://www.kaggle.com/competitions/sistemas-inteligentes-projeto-3/data).
