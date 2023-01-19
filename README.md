@@ -2,8 +2,6 @@
 
 ## Mini-projeto 3: Aprendizagem Automática
 
-
-
 <!-- #region -->
 ### Introdução
 
